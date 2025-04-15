@@ -1,4 +1,4 @@
-Sales Analytics Dashboard | Excel BI Project
+This is a Sales Analytics Dashboard | Excel BI Project
 📊 Built using Pivot Tables, Charts & Data Analysis Techniques
 🔍 Key Insights Uncovered:
 
